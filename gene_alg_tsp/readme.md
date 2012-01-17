@@ -5,8 +5,10 @@ This is an ruby program that uses a genetic algorithm to find an approximate sol
 # Run the dang thing
 
 Checkout the options
+
     ruby driver.rb -h
 
 Run with default params
+
     ruby driver.rb
 
