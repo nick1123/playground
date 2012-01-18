@@ -14,7 +14,7 @@ class Solution
     @city_names = city_names.clone
     @fully_connected_map = fully_connected_map
     @type = "Unknown"
-    @cycles = 1
+    @cycles = 0
   end
   
   def randomize_cities
@@ -81,6 +81,6 @@ class Solution
   end
   
   def to_s
-    "#{city_list_to_s} => #{total_distance}  #{@type}  Cycles: #{cycles}"
+    "Solution: #{city_list_to_s}  Distance: #{total_distance}  #{@type}  LifeSpan: #{cycles}"
   end
 end
