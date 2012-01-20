@@ -43,7 +43,7 @@ class Solution
     while index <= max_index - 1
       parent = (rand > 0.5 ? @city_names : city_names2)
       city_names_new << parent[index] << parent[index + 1]
-      index += 2
+      index += 1
     end
     
     # Remove dup cities
