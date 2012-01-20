@@ -16,7 +16,5 @@ Trollop::die :cities_count, "must be <= 62" if opts[:cities_count] > 62
 Trollop::die :solutions_count, "must be >= 8" if opts[:solutions_count] < 8
 Trollop::die :solutions_count, "must be divisible by 4" if (opts[:solutions_count] % 4) != 0
 
-
-
 scenario = Scenario.new(opts[:cities_count], opts[:solutions_count], opts[:divergence_min], opts[:iterations_min], opts[:iterations_max])
 scenario.run
