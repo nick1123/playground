@@ -1,0 +1,18 @@
+<?php
+
+$page_title = "Saw Palmetto Extract and Female Hair Loss";
+
+$page_content = <<<END
+<p>I often write about female hair loss and have experienced it myself.  Yesterday, I received an email wanting more information about saw palmetto as a treatment for female or women&#8217;s hair loss. The reader wanted to know if this was an effective remedy that could help with her shedding. The answer to this question could be yes, but it depends upon what type of hair loss she&#8217;s experiencing.  I&#8217;ll explain why in the following article.</p>
+<p>Saw Palmetto And Androgen Driven Hair Loss In Women: Saw palmetto is an herbal supplement that is often called things like &#8220;the herbal propecia.&#8221;  These types of treatments (propecia, adovart, etc.)  were initially used by men as anti androgens as a remedy for prostrate issues.  Eventually, a correlation was established between these prostrate treatments and an improvement in hair retention.</p>
+<p>It makes sense then that women with androgen related hair loss (AGA or shedding caused by DHT) would want to try these treatments.  However, women should not these anti androgen drugs because doing so could harm an unborn fetus should that woman become pregnant.  So, many women will look to herbs that are believed to lower androgens (like saw palmetto) as a safer alternative.</p>
+<p>But, here&#8217;s the thing.  This treatment does help some women &#8211; but only those who absolutely have androgen type hair loss with no other underlying cause. And, this should be used under the supervision of your doctor.  This type of loss often presents a distinct pattern.  You&#8217;ll often see much more loss on the top and at the part line, temples, and crown rather than more diffuse loss.</p>
+<p>However, if your loss or shedding is caused by other issues (hormones shifting or changing, going on and off birth control pills or other medications, medical issues, etc.) it&#8217;s highly likely that what you have is telogen effluvium which should be treated differently than AGA. In fact, many women in this situation find that altering their hormones (which is the case with using anti androgens) actually makes the shedding worse and could potentially kick off a whole new round of TE.</p>
+<p>As you may have guessed, I tried this regimen with high hopes only to kick off a whole new nightmarish shedding episode that I had to wait out all over again.  I&#8217;m not a doctor, but I&#8217;ve experienced this myself and have done tons of research.  It is my sincere opinion that it&#8217;s always best to start with the least invasive treatment and then work up from there.  You can always become more aggressive if you need to, but the invasive and aggressive treatments can backfire in a big way.</p>
+<p>In short, saw palmetto can be effective in female hair loss, but only in cases where androgens are without a doubt the problem.  (Your doctor can help you determine this through blood work.) </p>
+<p>How do I know all of this? Because I lived it. In my quest to end my hair loss, I looked at my triggers, my iron, my thyroid, my adrenals, my hormones, and my scalp&#8217;s health in my quest to end the nightmare. It was a long, hard, frustrating journey which all but wrecked my self esteem but I finally found something that helped quite a bit. You can read my very personal story at http://stop-hair-loss-in-women.com/</p>
+<p>Article Source: http://EzineArticles.com/?expert=Ava_Alderman</p>
+END;
+
+include "layout.php";
+?>

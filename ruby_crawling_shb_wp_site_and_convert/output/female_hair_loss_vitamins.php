@@ -1,0 +1,14 @@
+<?php
+
+$page_title = "Female Hair Loss Vitamins";
+
+$page_content = <<<END
+<p>Hair loss is one of the most common problems, and also the most difficult to tackle. While healthy hair indicates good general health, hair loss can be an indicator of a deeper internal health problem. Hair loss in women has been attributed to several factors till now: stress, lack of iron or anemia, condition of the scalp, condition of vital internal organs like the kidneys, liver, thyroid etc., emotional disturbances, menstrual problems, illness or lack of essential vitamins and other nutrients in the body etc.</p>
+<p>Hair loss generally indicates a deficiency in vitamin B1, vitamin C, lysine and iron. Vitamin C’s antioxidant properties help to make skin and hair healthy by aiding body metabolism, and converting fat and carbohydrates into energy. It helps in the development of healthy collagen that binds tissues together. Hence it is effective in preventing breakage and split ends. Vitamin C is present in good quantities in Citrus fruits, strawberries, pineapple, tomatoes, green peppers, potatoes and most dark green vegetables. A daily dose of 60 mg is recommended for good health. Vitamin B1 or Thiamine aids in protein building and thus makes the hair healthy, giving it volume, shine and a good texture. This is ensured by providing nutrition to the scalp. Other vitamins that help to prevent hair loss in women are: other Vitamin B complex vitamins like Biotin, Inositol, Niacin and vitamin E.</p>
+<p>Minerals like iron, zinc, magnesium are also effective in preventing hair loss. The most common food-based sources of these vitamins are: citrus fruits, green vegetables, fruits like pineapple, strawberries, kiwi, potatoes, green peppers, vegetable oils, soybean, raw seeds, dried beans, wheat germ oil, brewer’s yeast, whole grains, eggs, liver, rice, milk, fish, turkey, chicken and red meat. Other products found to be efficient in combating hair loss are Saw Palmetto, nettle root, pumpkin, gotu kola, eleuthero, Uva-Ursi, Muria Puama and others.</p>
+<p>There are hundreds of products in the market today that promise to prevent hair loss. These products are generally prescribed by experts though some over the counter drugs are also available. There are companies that specialize exclusively in the production of hair loss drugs. Information about these products is also available on the Internet on the websites of these companies. However, it is better to consult a physician to know the exact cause of hair loss before using any of these products.</p>
+<p>Hair Vitamins provides detailed information about hair vitamins, hair and nail vitamins, hair growth vitamins and more. Hair Vitamins is affiliated with Baldness Solutions.</p>
+END;
+
+include "layout.php";
+?>
